@@ -1,4 +1,39 @@
-## Hi there 👋
+
+# Hi there, I'm Hari Kishore 👋  
+
+🎓 **Undergraduate Student** | Bachelor of Technology in CSE @ IIIT Bhubaneswar (8.91 CGPA)  
+💻 **Passionate Software Developer** | Hacking around  
+🏆 **Competitive Programmer** | 2-star on CodeChef | Solved 180+ problems on LeetCode  
+🖋️ **Content Marketer** | Blogging, SEO, and Social media strategies  
+
+---
+
+## 💼 Tech Stack  
+- **Languages**: <br/>
+<img src='https://skillicons.dev/icons?i=c,js,java' ></img>
+- **Back-End**: <br/>
+<img src='https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql' ></img>  
+- **Front-End**: <br/>
+<img src='https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery' ></img> 
+- **Tools**: <br/>
+<img src='https://skillicons.dev/icons?i=github,wordpress' ></img>  
+  
+
+---
+
+## 🌐 My Profiles  
+<a href="www.linkedin.com/in/hari-kishoare-s">
+<img src='https://skillicons.dev/icons?i=linkedin' ></img>
+</a>
+<br/><br/>
+
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/harihk24?ext=contest)](https://leetcode.com/u/harihk24/)
+
+---
+
+📌 I'm passionate about solving problems, contributing to open-source projects, and exploring new technologies. Let's connect and collaborate!
+
 
 <!--
 **atomiclifestyle/atomiclifestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
