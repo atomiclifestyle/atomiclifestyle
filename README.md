@@ -2,9 +2,9 @@
 # Hi there, I'm Hari Kishore 👋  
 
 🎓 **Undergraduate Student** | Bachelor of Technology in CSE @ IIIT Bhubaneswar (8.91 CGPA)  
-💻 **Passionate Software Developer** | Hacking around  
+💻 **Passionate Software Developer** | Exploring Full-stack
 🏆 **Competitive Programmer** | 2-star on CodeChef | Solved 180+ problems on LeetCode  
-🖋️ **Content Marketer** | Blogging, SEO, and Social media strategies  
+🖋️ **Content Marketer** | Blogging, SEO, and Keyword Research  
 
 ---
 
