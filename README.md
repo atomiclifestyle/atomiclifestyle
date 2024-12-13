@@ -1,9 +1,9 @@
 
 # Hi there, I'm Hari Kishore 👋  
 
-🎓 **Undergraduate Student** | Bachelor of Technology in CSE @ IIIT Bhubaneswar (8.91 CGPA)  
-💻 **Passionate Software Developer** | Exploring Full-stack
-🏆 **Competitive Programmer** | 2-star on CodeChef | Solved 180+ problems on LeetCode  
+🎓 **Undergraduate Student** | Bachelor of Technology in CSE @ IIIT Bhubaneswar    
+💻 **Passionate Software Developer** | Exploring Full-stack   
+🏆 **Competitive Programmer** | Occasional CodeChef, LeetCode Grinder  
 🖋️ **Content Marketer** | Blogging, SEO, and Keyword Research  
 
 ---
@@ -21,14 +21,17 @@
 
 ---
 
-## 🌐 My Profiles  
-<a href="www.linkedin.com/in/hari-kishoare-s">
-<img src='https://skillicons.dev/icons?i=linkedin' ></img>
-</a>
-<br/><br/>
+## 🌐 My Profiles
+<div align="center">
+  <a href="www.linkedin.com/in/hari-kishoare-s">
+    <img src='https://skillicons.dev/icons?i=linkedin'></img>
+  </a>
+  <br/><br/>
 
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/harihk24?ext=contest)](https://leetcode.com/u/harihk24/)
+  
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/harihk24?ext=contest)](https://leetcode.com/u/harihk24/)
+</div>
 
 ---
 
