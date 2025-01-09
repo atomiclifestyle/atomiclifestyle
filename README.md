@@ -16,21 +16,19 @@
 - **Front-End**: <br/>
 <img src='https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery' ></img> 
 - **Tools**: <br/>
-<img src='https://skillicons.dev/icons?i=github,wordpress' ></img>  
+<img src='https://skillicons.dev/icons?i=github,wordpress' ></img>
+- **My Profiles**: <br/>
+<a href="www.linkedin.com/in/hari-kishoare-s">
+    <img src='https://skillicons.dev/icons?i=linkedin'></img>
+  </a>
   
 
 ---
 
-## 🌐 My Profiles
-<div align="center">
-  <a href="www.linkedin.com/in/hari-kishoare-s">
-    <img src='https://skillicons.dev/icons?i=linkedin'></img>
-  </a>
-  <br/><br/>
-
 
   
-  [![Leetcode Stats](https://leetcard.jacoblin.cool/harihk24?ext=contest)](https://leetcode.com/u/harihk24/)
+  <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/harihk24?ext=contest)](https://leetcode.com/u/harihk24/) -->
+  
 </div>
 
 ---
