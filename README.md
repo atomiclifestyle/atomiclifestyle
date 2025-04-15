@@ -3,22 +3,22 @@
 
 🎓 **Undergraduate Student** | Bachelor of Technology in CSE @ IIIT Bhubaneswar    
 💻 **Passionate Software Developer** | Exploring Full-stack   
-🏆 **Competitive Programmer** | Occasional CodeChef, LeetCode Grinder  
+🏆 **Competitive Programmer**   
 🖋️ **Content Marketer** | Blogging, SEO, and Keyword Research  
 
 ---
 
 ## 💼 Tech Stack  
 - **Languages**: <br/>
-<img src='https://skillicons.dev/icons?i=c,js,java' ></img>
+<img src='https://skillicons.dev/icons?i=c,js,java,ts' ></img>
 - **Back-End**: <br/>
-<img src='https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql' ></img>  
+<img src='https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nginx,docker' ></img>  
 - **Front-End**: <br/>
-<img src='https://skillicons.dev/icons?i=html,css,react,bootstrap,jquery' ></img> 
+<img src='https://skillicons.dev/icons?i=html,css,react,next,bootstrap,jquery' ></img> 
 - **Tools**: <br/>
-<img src='https://skillicons.dev/icons?i=github,wordpress' ></img>
+<img src='https://skillicons.dev/icons?i=github,wordpress,postman' ></img>
 - **My Profiles**: <br/>
-<a href="www.linkedin.com/in/hari-kishoare-s">
+  <a href="www.linkedin.com/in/hari-kishoare-s">
     <img src='https://skillicons.dev/icons?i=linkedin'></img>
   </a>
   
