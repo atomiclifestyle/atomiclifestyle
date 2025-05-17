@@ -1,14 +1,13 @@
 
 # Hi there, I'm Hari Kishore 👋  
 
-🎓 **Undergraduate Student** | Bachelor of Technology in CSE @ IIIT Bhubaneswar    
-💻 **Passionate Software Developer** | Exploring Full-stack   
-🏆 **Competitive Programmer**   
-🖋️ **Content Marketer** | Blogging, SEO, and Keyword Research  
+Bachelor of Technology in CSE @ IIIT Bhubaneswar
 
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atomiclifestyle&theme=github-compact&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-## 💼 Tech Stack  
+## Tech Stack  
 - **Languages**: <br/>
 <img src='https://skillicons.dev/icons?i=c,js,java,ts' ></img>
 - **Back-End**: <br/>
@@ -23,18 +22,12 @@
   </a>
   
 
----
-
-
-  
+---  
   <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/harihk24?ext=contest)](https://leetcode.com/u/harihk24/) -->
   
 </div>
 
 ---
-
-📌 I'm passionate about solving problems, contributing to open-source projects, and exploring new technologies. Let's connect and collaborate!
-
 
 <!--
 **atomiclifestyle/atomiclifestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
