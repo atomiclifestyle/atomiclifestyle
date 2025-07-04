@@ -4,30 +4,17 @@
 Bachelor of Technology in CSE @ IIIT Bhubaneswar
 
 ---
+<p>&nbsp;<img align="center" src="https://github-readme-stats-lemon-chi-21.vercel.app/api?username=atomiclifestyle&show_icons=true&locale=en&theme=highcontrast" alt="atomiclifestyle" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atomiclifestyle&theme=highcontrast" alt="atomiclifestyle" /></p>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atomiclifestyle&theme=github-compact&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## Tech Stack  
-- **Languages**: <br/>
-<img src='https://skillicons.dev/icons?i=c,js,java,ts' ></img>
-- **Back-End**: <br/>
-<img src='https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,nginx,docker' ></img>  
-- **Front-End**: <br/>
-<img src='https://skillicons.dev/icons?i=html,css,react,next,bootstrap,jquery' ></img> 
-- **Tools**: <br/>
-<img src='https://skillicons.dev/icons?i=github,wordpress,postman' ></img>
-- **My Profiles**: <br/>
-  <a href="www.linkedin.com/in/hari-kishoare-s">
-    <img src='https://skillicons.dev/icons?i=linkedin'></img>
-  </a>
-  
+<img src='https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,postgresql,nginx,docker,ts,java' ></img>
 
 ---  
-  <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/harihk24?ext=contest)](https://leetcode.com/u/harihk24/) -->
-  
-</div>
-
----
 
 <!--
 **atomiclifestyle/atomiclifestyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
