@@ -4,15 +4,18 @@
 Bachelor of Technology in CSE @ IIIT Bhubaneswar
 
 ---
+
+## My Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats-lemon-chi-21.vercel.app/api?username=atomiclifestyle&show_icons=true&locale=en&theme=highcontrast" alt="atomiclifestyle" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atomiclifestyle&theme=highcontrast" alt="atomiclifestyle" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atomiclifestyle&theme=github-compact&days=60)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atomiclifestyle&bg_color=0d1117&color=facc15&line=f97316&point=fb923c&area=true&hide_border=true&days=60
+)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
 ## Tech Stack  
-<img src='https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,postgresql,nginx,docker,ts,java' ></img>
+<img src='https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,postgresql,sequelize,nginx,docker,ts,java' ></img>
 
 ---  
 
