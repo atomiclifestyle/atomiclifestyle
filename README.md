@@ -10,7 +10,7 @@ Bachelor of Technology in CSE @ IIIT Bhubaneswar
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atomiclifestyle&theme=highcontrast" alt="atomiclifestyle" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atomiclifestyle&bg_color=0d1117&color=facc15&line=f97316&point=fb923c&area=true&hide_border=true&days=60
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atomiclifestyle&bg_color=0d1117&color=facc15&line=f97316&point=fb923c&area=true&hide_border=true&days=30
 )](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
 
