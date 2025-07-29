@@ -4,9 +4,19 @@
 Bachelor of Technology in CSE @ IIIT Bhubaneswar
 
 ---
+<!--
 **Github Trophies**
 
 ![Github Trophy](https://github-profile-trophy-pi-two.vercel.app/?username=atomiclifestyle&theme=dracula&title=-Stars,-Followers)
+-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atomiclifestyle/atomiclifestyle/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atomiclifestyle/atomiclifestyle/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/atomiclifestyle/atomiclifestyle/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ## My Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats-lemon-chi-21.vercel.app/api?username=atomiclifestyle&show_icons=true&locale=en&theme=highcontrast" alt="atomiclifestyle" /></p>
