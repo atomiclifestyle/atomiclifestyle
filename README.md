@@ -20,7 +20,7 @@ Bachelor of Technology in CSE @ IIIT Bhubaneswar
 ---
 
 ## Tech Stack  
-<img src='https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,postgresql,sequelize,nginx,docker,ts,java,redis' ></img>
+<img src='https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,postgresql,sequelize,nginx,docker,ts,java,redis,python' ></img>
 
 ---  
 
