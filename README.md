@@ -14,10 +14,11 @@ Bachelor of Technology in CSE @ IIIT Bhubaneswar
 </div>
 
 <p>&nbsp;<div align="center"><img align="center" src="https://github-readme-stats-lemon-chi-21.vercel.app/api?username=atomiclifestyle&show_icons=true&locale=en&theme=highcontrast" alt="atomiclifestyle" /></div></p>
-
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atomiclifestyle&bg_color=0d1117&color=facc15&line=f97316&point=fb923c&area=true&hide_border=true&days=30
 )](https://github.com/ashutosh00710/github-readme-activity-graph)
 ---
+-->
 
 ## Tech Stack  
 <img src='https://skillicons.dev/icons?i=mongodb,express,react,nodejs,next,postgresql,sequelize,nginx,docker,ts,java,redis,python' ></img>
